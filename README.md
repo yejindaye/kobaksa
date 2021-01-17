@@ -74,5 +74,7 @@ GRANT ALL PRIVILEGES ON *.* TO ‘root’@’%’ IDENTIFIED BY ‘mysql 설치�
 - GOOGLE_PROJECT_ID 변수 값도 알맞게 수정한다.
 
 <br>
+
 ## 시연 영상
+
 [![시연영상](https://img.youtube.com/vi/pqRbq514xpw/0.jpg)](https://www.youtube.com/watch?v=pqRbq514xpw?t=0s)
