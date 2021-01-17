@@ -73,5 +73,6 @@ GRANT ALL PRIVILEGES ON *.* TO ‘root’@’%’ IDENTIFIED BY ‘mysql 설치�
 - 2020-1-CECD3-ANC-1/mypage/chatbot/views.py에서 GOOGLE_AUTHENTOCATION_FILE_NAME 변수 값을 2020-1-CECD3-ANC-1/mypage/chatbot 경로에 .json의 확장자를 갖는 Dialogflow kobaksa 에이전트의 키 파일명으로 한다.
 - GOOGLE_PROJECT_ID 변수 값도 알맞게 수정한다.
 
-### 시연 영상
+### 시연 영상 
+#
 [![시연영상](https://img.youtube.com/vi/pqRbq514xpw/0.jpg)](https://www.youtube.com/watch?v=pqRbq514xpw?t=0s)
